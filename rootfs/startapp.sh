@@ -1,6 +1,5 @@
 #!/bin/sh
 
-export HOME=/config
 export LIBGL_ALWAYS_SOFTWARE=true
 
 COMMON_ARGS="--config /config"
